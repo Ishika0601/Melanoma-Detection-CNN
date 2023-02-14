@@ -31,7 +31,7 @@ A solution that can evaluate images and alert dermatologists about the presence 
 
 
 ## Conclusions
-- The CNN model built on the rectfied class imbalance data gives around 83% training accuracy & 77% validation accuracy.
+- The CNN model built on the rectfied class imbalance data gives around 93% training accuracy & 85% validation accuracy.
 
 - Handling class imbalance and introducing batch normalization and dropouts have increased accuracy as well as removed overfitting upto an extent.
 
